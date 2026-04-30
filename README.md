@@ -1,6 +1,6 @@
-# 🚀 Inquira AI
+# 🚀 NeuroChat
 
-**Inquira AI** is a sophisticated, full-stack AI-powered chat application inspired by ChatGPT. It delivers an exceptional conversational experience with real-time messaging, intelligent multi-model AI responses, internet search capabilities, and a polished, responsive user interface. Built with modern web technologies and powered by Google Gemini and Mistral AI via LangChain.
+**NeuroChat** is a sophisticated, full-stack AI-powered chat application inspired by ChatGPT. It delivers an exceptional conversational experience with real-time messaging, intelligent multi-model AI responses, internet search capabilities, and a polished, responsive user interface. Built with modern web technologies and powered by Google Gemini and Mistral AI via LangChain.
 
 ## 📸 Application Preview
 
