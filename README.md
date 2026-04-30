@@ -4,13 +4,13 @@
 
 ## 📸 Application Preview
 
-![Inquira AI Dashboard](assets/UI.png)
+![NeuroChat Dashboard](assets/UI.png)
 
 ---
 
 ## 🎯 Project Overview
 
-Inquira AI is an enterprise-grade chat platform that seamlessly combines modern AI capabilities with excellent user experience. The application leverages cutting-edge technologies to deliver:
+NeuroChat is an enterprise-grade chat platform that seamlessly combines modern AI capabilities with excellent user experience. The application leverages cutting-edge technologies to deliver:
 
 - **Intelligent AI Conversations** powered by LangChain with multiple model support
 - **Real-time Messaging** using WebSocket technology (Socket.io)
@@ -227,7 +227,7 @@ Backend/
 
 ### LangChain Architecture
 
-Inquira AI uses **LangChain** to orchestrate multiple AI models and tools:
+NeuroChat uses **LangChain** to orchestrate multiple AI models and tools:
 
 ```
 User Message
