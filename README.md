@@ -924,6 +924,6 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with ❤️ by [Manish kumar jaiswal]**
+**Built with ❤️ by [Aditya Pandey]**
 
 **Made with:** React • Node.js • Express • MongoDB • LangChain • Gemini API • Mistral AI • Tavily • Socket.io
